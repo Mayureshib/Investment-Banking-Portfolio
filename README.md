@@ -1,4 +1,4 @@
-# Investment-Banking-Portfolio - Mayuresh
+# Investment-Banking-Portfolio
 
 This repository showcases hands-on work in **financial modeling, valuation, equity research, and M&A analysis** prepared as part of my MBA (Finance & Strategy), CFA Level I preparation, and FMVA coursework. The projects demonstrate applied valuation techniques (DCF, Comps), 3-statement linking, pitch-deck creation, and interactive dashboards.
 
