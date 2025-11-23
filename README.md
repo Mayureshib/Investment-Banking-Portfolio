@@ -23,4 +23,4 @@ Excel (advanced), Power BI, PowerPoint, DCF valuation, Comps, WACC, CAPM, Beta e
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/mayuresh-jadhav-55a146213/  
-- Email: your.email@example.com
+- Email: mayureshjadhav.ib.edu@gmail.com
