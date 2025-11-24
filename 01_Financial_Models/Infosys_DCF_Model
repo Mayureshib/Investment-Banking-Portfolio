@@ -1,1 +1,3 @@
+### Infosys DCF Valuation Model
+This model includes 5-year historical data, 5-year projections, FCFF estimation, WACC, CAPM analysis, terminal valuation (Gordon & Exit Multiple), and a sensitivity table. Intrinsic value is computed based on the discounted FCFF approach.
 
