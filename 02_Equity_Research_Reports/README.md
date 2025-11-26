@@ -6,7 +6,7 @@ This folder contains equity research PDFs with:
 - Data sources and model references
 ---
 
-## 📘 Infosys Ltd. – Equity Research Report (DCF-Based)
+## 📘 1. Infosys Ltd. – Equity Research Report (DCF-Based)
 
 A complete equity research report on **Infosys Ltd.**, built using a bottom-up fundamental approach and a full **Discounted Cash Flow (DCF)** valuation model.  
 The report includes company overview, industry analysis, financial modelling, valuation, sensitivity analysis, and final rating.
