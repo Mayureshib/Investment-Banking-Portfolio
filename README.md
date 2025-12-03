@@ -17,10 +17,10 @@ This repository showcases hands-on work in **financial modeling, valuation, equi
 - `05_Dashboards/` - Power BI (.pbix) and Excel dashboards  
 - `06_Research_Papers/` - Drafts and final papers (PDF)  
 - `07_Templates_and_Tools/` - Reusable templates (DCF, Comps, screeners)
-- `Quantitative Models/` 
+- `Quantitative Models/` - Models useable for Investment Decisions
 
 ## Tools & Skills
-Excel (advanced), Power BI, PowerPoint, DCF valuation, Comps, WACC, CAPM, Beta estimation, sensitivity analysis, financial statement analysis.
+Excel (advanced), Power BI, Python, PowerPoint, DCF valuation, Comps, WACC, CAPM, Beta estimation, sensitivity analysis, financial statement analysis.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/mayuresh-jadhav-55a146213/  
