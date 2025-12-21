@@ -20,8 +20,10 @@ Built a fully integrated **3-Statement Financial Model** for **MRF Ltd.**, featu
 
 This model includes 7-year historical data, 5-year projections, FCFF estimation, WACC, CAPM analysis, terminal valuation (Gordon & Exit Multiple), and a sensitivity table. Intrinsic value is computed based on the discounted FCFF approach.
 
-![Infosys Sensitivity Analysis]()
+![Infosys Sensitivity Analysis](https://github.com/Mayureshib/Investment-Banking-Portfolio/blob/main/01_Financial_Models/Visuals/Infosys%20sensitivity%20Analysis.png)
 
 ## 3. HDFC Bank Excess Returns Valuation Model  
 A banking-specific intrinsic valuation framework built using the Excess Returns (Residual Income) method.  
 Includes 5-year historical analysis, 5-year projections, Excess returns logic, CAPM-based cost of equity estimation, terminal valuation, and sensitivity testing across discount rates and long-term growth assumptions.
+
+![HDFC Bank Dashboard]()
