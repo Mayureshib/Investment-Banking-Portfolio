@@ -10,11 +10,12 @@ This folder contains 3-statement and DCF models. Each Excel workbook is accompan
 - `Infosys_DCF_Model.xlsx` - DCF model (Revenue, WACC, TV, Sensitivity)
 - `HDFC_DCF_Valuation_Model.xlsx` - DCF model (Revenue, WACC, Sensitivity, Excess Return Model)
 
-### 1. MRF Ltd. - 3-Statement Financial Model
+### 1. HDFC Bank Excess Returns Valuation Model  
 
-Built a fully integrated **3-Statement Financial Model** for **MRF Ltd.**, featuring historical financial analysis, revenue and cost drivers, and a complete forward-linked **Income Statement, Balance Sheet, and Cash Flow Statement** with automated balancing checks and internal consistency controls.
+A banking-specific intrinsic valuation framework built using the Excess Returns (Residual Income) method.  
+Includes 5-year historical analysis, 5-year projections, Excess returns logic, CAPM-based cost of equity estimation, terminal valuation, and sensitivity testing across discount rates and long-term growth assumptions.
 
-![MRF Dashboard](https://github.com/Mayureshib/Investment-Banking-Portfolio/blob/main/01_Financial_Models/Visuals/MRF%20Dashboard.png)
+![HDFC Bank Dashboard](https://github.com/Mayureshib/Investment-Banking-Portfolio/blob/main/01_Financial_Models/Visuals/HDFC%20Bank%20Dashboard.png)
 
 ### 2. Infosys DCF Valuation Model
 
@@ -22,8 +23,8 @@ This model includes 7-year historical data, 5-year projections, FCFF estimation,
 
 ![Infosys Sensitivity Analysis](https://github.com/Mayureshib/Investment-Banking-Portfolio/blob/main/01_Financial_Models/Visuals/Infosys%20sensitivity%20Analysis.png)
 
-## 3. HDFC Bank Excess Returns Valuation Model  
-A banking-specific intrinsic valuation framework built using the Excess Returns (Residual Income) method.  
-Includes 5-year historical analysis, 5-year projections, Excess returns logic, CAPM-based cost of equity estimation, terminal valuation, and sensitivity testing across discount rates and long-term growth assumptions.
+## 3. MRF Ltd. - 3-Statement Financial Model
 
-![HDFC Bank Dashboard]()
+Built a fully integrated **3-Statement Financial Model** for **MRF Ltd.**, featuring historical financial analysis, revenue and cost drivers, and a complete forward-linked **Income Statement, Balance Sheet, and Cash Flow Statement** with automated balancing checks and internal consistency controls.
+
+![MRF Dashboard](https://github.com/Mayureshib/Investment-Banking-Portfolio/blob/main/01_Financial_Models/Visuals/MRF%20Dashboard.png)
