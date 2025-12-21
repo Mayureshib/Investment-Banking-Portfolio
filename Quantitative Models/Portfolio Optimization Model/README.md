@@ -9,7 +9,11 @@ This project applies Modern Portfolio Theory (MPT) to construct an optimal inves
 - Efficient Frontier construction  
 - Optimal portfolio identification (maximum Sharpe & minimum variance)  
 
+The following are the visuals of the optimal portfolio from the 10000 simulations and its value over 10 years:
+
 ![Efficient Frontier](https://github.com/Mayureshib/Investment-Banking-Portfolio/blob/main/Quantitative%20Models/Portfolio%20Optimization%20Model/Efficient%20Frontier.png)
+
+![Portfolio Value over 10 years](https://github.com/Mayureshib/Investment-Banking-Portfolio/blob/main/Quantitative%20Models/Portfolio%20Optimization%20Model/Portfolio%20Value%20over%2010%20years.png)
 
 ## 🧠 Key Insights
 This model shows how diversification impacts risk, how asset weights change portfolio volatility, and how optimization finds combinations that outperform manual allocation.
