@@ -14,9 +14,13 @@ This folder contains 3-statement and DCF models. Each Excel workbook is accompan
 
 Built a fully integrated **3-Statement Financial Model** for **MRF Ltd.**, featuring historical financial analysis, revenue and cost drivers, and a complete forward-linked **Income Statement, Balance Sheet, and Cash Flow Statement** with automated balancing checks and internal consistency controls.
 
+![MRF Dashboard](https://github.com/Mayureshib/Investment-Banking-Portfolio/blob/main/01_Financial_Models/Visuals/MRF%20Dashboard.png)
+
 ### 2. Infosys DCF Valuation Model
 
 This model includes 7-year historical data, 5-year projections, FCFF estimation, WACC, CAPM analysis, terminal valuation (Gordon & Exit Multiple), and a sensitivity table. Intrinsic value is computed based on the discounted FCFF approach.
+
+![Infosys Sensitivity Analysis]()
 
 ## 3. HDFC Bank Excess Returns Valuation Model  
 A banking-specific intrinsic valuation framework built using the Excess Returns (Residual Income) method.  
